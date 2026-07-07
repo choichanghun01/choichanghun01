@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://choichanghun01.github.io/choichanghun01/sitemap.xml
